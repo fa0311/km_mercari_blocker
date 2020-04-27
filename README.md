@@ -7,4 +7,4 @@ chromeの設定から拡張機能を選択して*デベロッパーモード*を
 展開したフォルダの中からkm_mercari_blockerを選択してください  
 
 # License
-youtube-feature-rich-v1 is under MIT License
+km_mercari_blocker is under MIT License
